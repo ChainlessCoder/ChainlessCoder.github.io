@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>@ChainlessCoder</title>
-    <link>http://chainlesscoder.com/about/</link>
+    <link>https://github.com/ChainlessCoder/ChainlessCoder.github.io/about/</link>
     <description>Recent content on @ChainlessCoder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://chainlesscoder.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/ChainlessCoder/ChainlessCoder.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
