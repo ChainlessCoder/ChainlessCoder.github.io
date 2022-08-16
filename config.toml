@@ -1,0 +1,74 @@
+baseURL = 'http://chainlesscoder.com/'
+languageCode = 'en-us'
+title = '@ChainlessCoder'
+theme = 'mini'
+
+
+# Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish), default 'en'
+defaultContentLanguage = 'en'
+
+# !!! exampleSite only, you may need to delete the line: `themesDir: ../../` 
+#themesDir: ../../
+
+hasCJKLanguage = true
+[permalinks]
+  posts = '/posts/:title/'
+
+paginate = 4
+
+#googleAnalytics: your-google-analytics-id
+disqusShortname = 'ChainlessCoder'
+
+# Hugo Configure Markup
+# More info: https://gohugo.io/getting-started/configuration-markup#
+[markup]
+    [markup.highlight]
+        guessSyntax = true
+        style = 'emacs'
+    [markup.tableOfContents]
+        endLevel = 3
+        ordered = false
+        startLevel = 2
+    # needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+
+[social]
+  twitter = 'https://twitter.com/ChainlessCoder'
+
+[params]
+    avatarLink = 'https://twitter.com/ChainlessCoder'
+
+    author =  'Lum Ramabaja'
+
+    # Author biography
+    bio = 'Lum Ramabaja'
+
+    # Site Description, used in HTML meat
+    description = 'My Blog'
+
+    # To enable RSS, you could set `enableRSS: true`, default is `true`
+    enableRSS = true
+
+    # To enable comments, you may need to set `disqusShortname`
+    enableComments = true
+    
+    # To enable comments, you may need to set `googleAnalytics`
+    enableGoogleAnalytics = true
+    
+    # To enable table of content, you could set `showToc: true`, default is `false`
+    showToc = true
+    
+    # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
+    showPowerBy = false
+    
+    # To enable math typesetting , you could set `math: true`, default is `false`
+    math = true
+    
+    # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
+    hiddenPostSummaryInHomePage = false
+    
+    # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
+    copyright = ''
