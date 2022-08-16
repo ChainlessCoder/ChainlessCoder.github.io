@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>https://ChainlessCoder.github.io/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>/</loc>
+    <loc>https://ChainlessCoder.github.io/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://ChainlessCoder.github.io/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://ChainlessCoder.github.io/tags/</loc>
   </url>
 </urlset>
