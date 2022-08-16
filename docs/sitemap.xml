@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/ChainlessCoder/ChainlessCoder.github.io/about/</loc>
+    <loc>https://ChainlessCoder.github.io/ChainlessCoder/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://github.com/ChainlessCoder/ChainlessCoder.github.io/</loc>
+    <loc>https://ChainlessCoder.github.io/ChainlessCoder/</loc>
   </url><url>
-    <loc>https://github.com/ChainlessCoder/ChainlessCoder.github.io/categories/</loc>
+    <loc>https://ChainlessCoder.github.io/ChainlessCoder/categories/</loc>
   </url><url>
-    <loc>https://github.com/ChainlessCoder/ChainlessCoder.github.io/tags/</loc>
+    <loc>https://ChainlessCoder.github.io/ChainlessCoder/tags/</loc>
   </url>
 </urlset>
