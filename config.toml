@@ -1,4 +1,4 @@
-baseURL = 'https://ChainlessCoder.github.io/ChainlessCoder'
+baseURL = '/'
 languageCode = 'en-us'
 title = '@ChainlessCoder'
 theme = 'mini'
