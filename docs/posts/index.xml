@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@ChainlessCoder</title>
-    <link>https://chainlesscoder.com/</link>
-    <description>Recent content on @ChainlessCoder</description>
+    <title>Posts on @ChainlessCoder</title>
+    <link>https://chainlesscoder.com/posts/</link>
+    <description>Recent content in Posts on @ChainlessCoder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chainlesscoder.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chainlesscoder.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hypersyn: A Peer-to-Peer System for Mutual Credit</title>
       <link>https://chainlesscoder.com/posts/hypersyn-a-peer-to-peer-system-for-mutual-credit/</link>

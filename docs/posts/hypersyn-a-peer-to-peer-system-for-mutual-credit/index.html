@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <title>Hypersyn: A Peer-to-Peer System for Mutual Credit | @ChainlessCoder</title>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
+<meta name="viewport" content="width=device-width,minimum-scale=1">
+<meta name="description" content="Hypersyn: A Peer-to-Peer System for Mutual Credit">
+<meta name="generator" content="Hugo 0.97.3" />
+
+
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+
+<link rel="stylesheet" href="/css/style.css">
+
+
+
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+
+ 
+    
+
+
+
+  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
+
+
+
+
+  </head>
+
+  <body>
+    <nav class="navigation">
+	
+		<a href="/"> <span class="arrow">←</span>Home</a>
+	
+	<a href="/posts">Archive</a>
+	<a href="/tags">Tags</a>
+	<a href="/about">About</a>
+
+	
+
+	
+	  <a class="button" href="https://chainlesscoder.com/index.xml">Subscribe</a>
+	
+</nav>
+
+
+    <main class="main">
+      
+
+<section id="single">
+    <h1 class="title">Hypersyn: A Peer-to-Peer System for Mutual Credit</h1>
+
+    <div class="tip">
+        <time datetime="2022-05-31 00:00:00 &#43;0000 UTC">May 31, 2022</time>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          318 words
+        </span>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          2 minute read
+        </span>
+    </div>
+
+    
+    
+        
+  
+    <aside class="toc">
+      <details>
+          <summary>Table of Contents
+          </summary>
+          <div>
+              <nav id="TableOfContents">
+  <ul>
+    <li><a href="#abstract">Abstract</a></li>
+    <li><a href="#money--mutual-credithttpschainlesscodercompostsmoney-mutual-credit"><a href="https://chainlesscoder.com/posts/money-mutual-credit/">Money &amp; Mutual Credit</a></a></li>
+    <li><a href="#demystifying-sparse-merkle-trees"><a href="">Demystifying Sparse Merkle Trees</a></a></li>
+    <li><a href="#hypersyn---mechanism-overview"><a href="">Hypersyn - Mechanism Overview</a></a></li>
+  </ul>
+</nav>
+          </div>
+      </details>
+    </aside>
+  
+
+
+    
+
+
+    <div class="content">
+      <p>This is the landing page for the Hypersyn blog series. To read the whole Hypersyn blog series in PDF form with included references, visit <a href="https://arxiv.org/pdf/2206.04049.pdf" target="_blank" rel="noopener">arxiv</a>.</p>
+<hr>
+<h2 id="abstract">Abstract <a href="#abstract" class="anchor">🔗</a></h2><p>The Hypersyn protocol is a new type of permissionless and peer-to-peer payment network that is based on the concept of mutual credit and mutual arbitrage. Unlike blockchain-based systems, Hypersyn does not rely on any consensus algorithm. It does not require a distributed ledger to store the history of events nor a set of validators. Hypersyn does not have a system-imposed hard-cap on the number of transactions per second that it can perform, and can therefore easily scale up or down depending on network usage. Unlike in other payment systems, money in Hypersyn does not get transferred from person $A$ to person $B$ in the conventional sense. Instead of transferring a token between each other, peers in Hypersyn change the exchange value of their credit (i.e. their purchasing power) within the network. Just as in centrally-issued fiat systems, money in Hypersyn is treated as freely tradable debt, which inherently requires trust. But unlike centrally-issued fiat systems, money issuance in Hypersyn is not controlled by an authority, but is instead created on the spot as mutual credit. In blockchain-based systems and even in centrally-issued fiat systems, money is treated as a scarce commodity. In the Hypersyn protocol on the other hand, money supply within the system is elastic in nature. Because of these fundamental differences in assumptions, the Hypersyn protocol does not aim to compete with, or substitute blockchain-based systems. Instead, Hypersyn should be viewed as a tool that aims to offer a qualitative change in the way we exchange. It has the potential to increase the autonomy and self-organization that people can have, by enabling people to become both the creditors and debtors of their own &ldquo;money&rdquo; through mutual credit.</p>
+<h2 id="money--mutual-credithttpschainlesscodercompostsmoney-mutual-credit"><a href="https://chainlesscoder.com/posts/money-mutual-credit/" target="_blank" rel="noopener">Money &amp; Mutual Credit</a> <a href="#money--mutual-credithttpschainlesscodercompostsmoney-mutual-credit" class="anchor">🔗</a></h2><h2 id="demystifying-sparse-merkle-trees"><a href="">Demystifying Sparse Merkle Trees</a> <a href="#demystifying-sparse-merkle-trees" class="anchor">🔗</a></h2><h2 id="hypersyn---mechanism-overview"><a href="">Hypersyn - Mechanism Overview</a> <a href="#hypersyn---mechanism-overview" class="anchor">🔗</a></h2>
+    </div>
+
+    
+        <div class="tags">
+            
+                <a href="https://chainlesscoder.com/tags/p2p">p2p</a>
+            
+        </div>
+    
+    
+    
+  <div id="comment">
+    
+    
+  </div>
+
+
+</section>
+
+
+    </main>
+    
+    <footer id="footer">
+    
+        <div id="social">
+
+
+    <a class="symbol" href="https://twitter.com/ChainlessCoder" rel="me" target="_blank">
+        
+        <svg fill="#bbbbbb" width="28" height="28" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="438.536px" height="438.536px" viewBox="0 0 438.536 438.536" style="enable-background:new 0 0 438.536 438.536;"
+	 xml:space="preserve">
+<g>
+	<path d="M414.41,24.123C398.333,8.042,378.963,0,356.315,0H82.228C59.58,0,40.21,8.042,24.126,24.123
+		C8.045,40.207,0.003,59.576,0.003,82.225v274.084c0,22.647,8.042,42.018,24.123,58.102c16.084,16.084,35.454,24.126,58.102,24.126
+		h274.084c22.648,0,42.018-8.042,58.095-24.126c16.084-16.084,24.126-35.454,24.126-58.102V82.225
+		C438.532,59.576,430.49,40.204,414.41,24.123z M335.471,168.735c0.191,1.713,0.288,4.278,0.288,7.71
+		c0,15.989-2.334,32.025-6.995,48.104c-4.661,16.087-11.8,31.504-21.416,46.254c-9.606,14.749-21.074,27.791-34.396,39.115
+		c-13.325,11.32-29.311,20.365-47.968,27.117c-18.648,6.762-38.637,10.143-59.953,10.143c-33.116,0-63.76-8.952-91.931-26.836
+		c4.568,0.568,9.329,0.855,14.275,0.855c27.6,0,52.439-8.565,74.519-25.7c-12.941-0.185-24.506-4.179-34.688-11.991
+		c-10.185-7.803-17.273-17.699-21.271-29.691c4.947,0.76,8.658,1.137,11.132,1.137c4.187,0,9.042-0.76,14.56-2.279
+		c-13.894-2.669-25.598-9.562-35.115-20.697c-9.519-11.136-14.277-23.84-14.277-38.114v-0.571
+		c10.085,4.755,19.602,7.229,28.549,7.422c-17.321-11.613-25.981-28.265-25.981-49.963c0-10.66,2.758-20.747,8.278-30.264
+		c15.035,18.464,33.311,33.213,54.816,44.252c21.507,11.038,44.54,17.227,69.092,18.558c-0.95-3.616-1.427-8.186-1.427-13.704
+		c0-16.562,5.853-30.692,17.56-42.399c11.703-11.706,25.837-17.561,42.394-17.561c17.515,0,32.079,6.283,43.688,18.846
+		c13.134-2.474,25.892-7.33,38.26-14.56c-4.757,14.652-13.613,25.788-26.55,33.402c12.368-1.716,23.88-4.95,34.537-9.708
+		C357.458,149.793,347.462,160.166,335.471,168.735z"/>
+</g>
+</svg>
+
+    </a>
+
+
+</div>
+
+    
+
+    <div class="copyright">
+    
+       © Copyright 
+       2022 
+       <span class="split">
+        <svg fill="#bbbbbb" width="15" height="15" version="1.1" id="heart-15" xmlns="http://www.w3.org/2000/svg" width="15px" height="15px" viewBox="0 0 15 15">
+  <path d="M13.91,6.75c-1.17,2.25-4.3,5.31-6.07,6.94c-0.1903,0.1718-0.4797,0.1718-0.67,0C5.39,12.06,2.26,9,1.09,6.75&#xA;&#x9;C-1.48,1.8,5-1.5,7.5,3.45C10-1.5,16.48,1.8,13.91,6.75z"/>
+</svg>
+       </span>
+       Lum Ramabaja
+    
+    </div>
+
+    
+</footer>
+
+
+
+  </body>
+</html>

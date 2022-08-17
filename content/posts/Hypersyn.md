@@ -2,7 +2,7 @@
 author: Lum Ramabaja
 title: "Hypersyn: A Peer-to-Peer System for Mutual Credit"
 date: 2022-05-31
-draft: true
+draft: false
 description: "Hypersyn: A Peer-to-Peer System for Mutual Credit"
 tags: [
    p2p
@@ -10,7 +10,7 @@ tags: [
 series: ["Hypersyn"]
 ---
 
-This is the landing page for the Hypersyn blog series. To read the whole Hypersyn blog series in PDF form, visit [arxiv](https://arxiv.org/pdf/2206.04049.pdf).
+This is the landing page for the Hypersyn blog series. To read the whole Hypersyn blog series in PDF form with included references, visit [arxiv](https://arxiv.org/pdf/2206.04049.pdf).
 
 ---
 <!--more-->
