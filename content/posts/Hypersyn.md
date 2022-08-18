@@ -1,7 +1,7 @@
 ---
 author: Lum Ramabaja
 title: "Hypersyn: A Peer-to-Peer System for Mutual Credit"
-date: 2022-05-31
+date: 2022-08-15
 draft: false
 description: "Hypersyn: A Peer-to-Peer System for Mutual Credit"
 tags: [
@@ -21,6 +21,6 @@ The Hypersyn protocol is a new type of permissionless and peer-to-peer payment n
 
 ## [Money & Mutual Credit](https://chainlesscoder.com/posts/money-mutual-credit/)
 
-## [Demystifying Sparse Merkle Trees]()
+## [Demystifying Sparse Merkle Trees](https://chainlesscoder.com/posts/demystifying-sparse-merkle-trees)
 
-## [Hypersyn - Mechanism Overview]()
+## [Hypersyn - Mechanism Overview](https://chainlesscoder.com/posts/hypersyn-mechanism-overview)

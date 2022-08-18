@@ -1,7 +1,7 @@
 ---
 author: Lum Ramabaja
 title: "Money & Mutual Credit 💰"
-date: 2022-05-31
+date: 2022-08-16
 draft: false
 description: "Hypersyn: A Peer-to-Peer System for Mutual Credit"
 tags: [
@@ -12,7 +12,7 @@ tags: [
 series: ["Hypersyn"]
 ---
 
-This is part 1 of the Hypersyn blog series. Visit the [part 0](https://chainlesscoder.com/posts/hypersyn-a-peer-to-peer-system-for-mutual-credit/) to explore the other parts of the blog series. To read the whole Hypersyn blog series in PDF form with included references, visit [arxiv](https://arxiv.org/pdf/2206.04049.pdf).
+This is part 1 of the Hypersyn blog series. Visit [part 0](https://chainlesscoder.com/posts/hypersyn-a-peer-to-peer-system-for-mutual-credit/) to explore the other parts of the blog series. To read the whole Hypersyn blog series in PDF form with included references, visit [arxiv](https://arxiv.org/pdf/2206.04049.pdf).
 
 ---
 <!--more-->

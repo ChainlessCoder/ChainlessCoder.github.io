@@ -6,24 +6,34 @@
     <description>Recent content in Posts on @ChainlessCoder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chainlesscoder.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chainlesscoder.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hypersyn: A Peer-to-Peer System for Mutual Credit</title>
-      <link>https://chainlesscoder.com/posts/hypersyn-a-peer-to-peer-system-for-mutual-credit/</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <title>Demystifying Sparse Merkle Trees 🌲</title>
+      <link>https://chainlesscoder.com/posts/demystifying-sparse-merkle-trees/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chainlesscoder.com/posts/hypersyn-a-peer-to-peer-system-for-mutual-credit/</guid>
-      <description>&lt;p&gt;This is the landing page for the Hypersyn blog series. To read the whole Hypersyn blog series in PDF form with included references, visit &lt;a href=&#34;https://arxiv.org/pdf/2206.04049.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://chainlesscoder.com/posts/demystifying-sparse-merkle-trees/</guid>
+      <description>&lt;p&gt;This is part 2 of the Hypersyn blog series. Visit &lt;a href=&#34;https://chainlesscoder.com/posts/hypersyn-a-peer-to-peer-system-for-mutual-credit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;part 0&lt;/a&gt; to explore the other parts of the blog series. To read the whole Hypersyn blog series in PDF form with included references, visit &lt;a href=&#34;https://arxiv.org/pdf/2206.04049.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;</description>
     </item>
     
     <item>
       <title>Money &amp; Mutual Credit 💰</title>
       <link>https://chainlesscoder.com/posts/money-mutual-credit/</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://chainlesscoder.com/posts/money-mutual-credit/</guid>
-      <description>&lt;p&gt;This is part 1 of the Hypersyn blog series. Visit the &lt;a href=&#34;https://chainlesscoder.com/posts/hypersyn-a-peer-to-peer-system-for-mutual-credit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;part 0&lt;/a&gt; to explore the other parts of the blog series. To read the whole Hypersyn blog series in PDF form with included references, visit &lt;a href=&#34;https://arxiv.org/pdf/2206.04049.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This is part 1 of the Hypersyn blog series. Visit &lt;a href=&#34;https://chainlesscoder.com/posts/hypersyn-a-peer-to-peer-system-for-mutual-credit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;part 0&lt;/a&gt; to explore the other parts of the blog series. To read the whole Hypersyn blog series in PDF form with included references, visit &lt;a href=&#34;https://arxiv.org/pdf/2206.04049.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hypersyn: A Peer-to-Peer System for Mutual Credit</title>
+      <link>https://chainlesscoder.com/posts/hypersyn-a-peer-to-peer-system-for-mutual-credit/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chainlesscoder.com/posts/hypersyn-a-peer-to-peer-system-for-mutual-credit/</guid>
+      <description>&lt;p&gt;This is the landing page for the Hypersyn blog series. To read the whole Hypersyn blog series in PDF form with included references, visit &lt;a href=&#34;https://arxiv.org/pdf/2206.04049.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;</description>
     </item>
     

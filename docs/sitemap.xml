@@ -3,28 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://chainlesscoder.com/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chainlesscoder.com/tags/finance/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    <loc>https://chainlesscoder.com/tags/data-structures/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chainlesscoder.com/posts/hypersyn-a-peer-to-peer-system-for-mutual-credit/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chainlesscoder.com/posts/money-mutual-credit/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chainlesscoder.com/tags/mutual-credit/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chainlesscoder.com/tags/p2p/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    <loc>https://chainlesscoder.com/posts/demystifying-sparse-merkle-trees/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chainlesscoder.com/posts/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chainlesscoder.com/tags/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chainlesscoder.com/tags/finance/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chainlesscoder.com/posts/money-mutual-credit/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chainlesscoder.com/tags/mutual-credit/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chainlesscoder.com/tags/p2p/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chainlesscoder.com/posts/hypersyn-a-peer-to-peer-system-for-mutual-credit/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chainlesscoder.com/about/</loc>
     <priority>0</priority>
