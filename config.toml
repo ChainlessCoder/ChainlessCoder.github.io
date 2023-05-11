@@ -44,7 +44,7 @@ disqusShortname = 'ChainlessCoder'
     author =  'Lum Ramabaja'
 
     # Author biography
-    bio = 'Lum Ramabaja'
+    #bio = 'Lum Ramabaja'
 
     # Site Description, used in HTML meat
     description = 'My Blog'
