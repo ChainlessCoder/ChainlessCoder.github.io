@@ -3,7 +3,7 @@ author: Lum Ramabaja
 title: "Open Source AI: And the Challenges Ahead"
 date: 2023-05-27
 draft: false
-description: "Open Source AI: And the Challenges Ahead"
+description: "Open Source AI and the Challenges Ahead"
 tags: [
    AI, Open Source, Open Cybernetics
    ]
