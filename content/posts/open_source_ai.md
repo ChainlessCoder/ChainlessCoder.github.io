@@ -16,7 +16,7 @@ series: ["Open Cybernetics"]
 
 **Author: Lum Ramabaja**
 
-This essay was originally published as a blog post on \href{https://blog.opncbr.com/post/open_source_ai/}{Open Cybernetics} \& \href{https://chainlesscoder.com/posts/open-source-ai-and-the-challenges-ahead/}{ChainlessCoder}. It can also be read as a PDF on [arXiv]().
+This essay was originally published as a blog post on [Open Cybernetics](https://blog.opncbr.com/post/open_source_ai/) \& [ChainlessCoder](https://chainlesscoder.com/posts/open-source-ai-and-the-challenges-ahead/). It can also be read as a PDF on [arXiv]().
 
 ---
 <!--more-->
