@@ -16,58 +16,18 @@ series: ["Open Cybernetics"]
 
 **Author: Lum Ramabaja**
 
-This essay was originally published on [Open Cybernetics](https://opncbr.com) & [ChainlessCoder](https://chainlesscoder.com). It can also be read as a PDF on [arXiv]().
+This essay was originally published as a blog post on \href{https://blog.opncbr.com/post/open_source_ai/}{Open Cybernetics} \& \href{https://chainlesscoder.com/posts/open-source-ai-and-the-challenges-ahead/}{ChainlessCoder}. It can also be read as a PDF on [arXiv]().
 
 ---
 <!--more-->
 
 # The price of AI
 
-While I remain confident that open source AI will continue to bloom, I
-believe that the incentives for corporations and governments to limit
-access to novel neural network architectures and techniques will only
-intensify in the coming years. In this essay, I aim to predict and
-outline the potential disruptions that may occur over the course of this
-decade, and to offer some ideas and solutions to help the open source
-community adapt to this hypothetical future. Predicting the future is of
-course difficult, and I realize that many of the predictions I make may
-not come to pass or may unfold entirely differently. However, this does
-not render the exercise of thinking about the future futile. Rather,
-contemplating possible futures can help us adapt proactively to an
-ever-changing world. As our world continues to evolve at a rapid pace,
-the ability to envision and prepare for possible new worlds will become
-ever more important.
+While I remain confident that open source AI will continue to bloom, I believe that the incentives for corporations and governments to limit access to novel neural network architectures and techniques will only intensify in the coming years. In this essay, I aim to predict and outline the potential disruptions that may occur over the course of this decade, and to offer some ideas and solutions to help the open source community adapt to this hypothetical future. Predicting the future is of course difficult, and I realize that many of the predictions I make may not come to pass or may unfold entirely differently. However, this does not render the exercise of thinking about the future futile. Rather, contemplating possible futures can help us adapt proactively to an ever-changing world. As our world continues to evolve at a rapid pace, the ability to envision and prepare for possible new worlds will become ever more important.
 
-In the near future, the way we interact with people, the way we exchange
-and perform labor, even the way societies are organized will change in
-fundamental ways. It appears highly probable that each person will have
-personalized AI entities, which I refer to as "Ghosts", that will link
-them to a global network of other AI systems. These AI systems will
-perform many services for us. Rather than perceiving them as mere
-assistants, it may be more fitting to regard them as cognitive
-extensions of ourselves. Firms and organizations will most likely also
-have their own Ghosts, enabling more effective collaboration among
-members. Beyond the social aspects, associative memory networks with
-recurrent connections might enable AI systems to form a memory. These
-stand-alone Ghosts might even develop an identity. Furthermore, AI
-systems leveraging consensus algorithms may be developed, potentially
-giving rise to decentralized autonomous AIs. Although this future has
-yet to materialize, we can already envision some of the economic
-dynamics that will unfold.
+In the near future, the way we interact with people, the way we exchange and perform labor, even the way societies are organized will change in fundamental ways. It appears highly probable that each person will have personalized AI entities, which I refer to as "Ghosts", that will link them to a global network of other AI systems. These AI systems will perform many services for us. Rather than perceiving them as mere assistants, it may be more fitting to regard them as cognitive extensions of ourselves. Firms and organizations will most likely also have their own Ghosts, enabling more effective collaboration among members. Beyond the social aspects, associative memory networks with recurrent connections might enable AI systems to form a memory. These stand-alone Ghosts might even develop an identity. Furthermore, AI systems leveraging consensus algorithms may be developed, potentially giving rise to decentralized autonomous AIs. Although this future has yet to materialize, we can already envision some of the economic dynamics that will unfold.
 
-The exchange-value of AI-generated services will be equal to the energy
-required to provide the service (i.e. the cost of running the relevant
-model(s)), plus the AI's information asymmetry within the market.
-Services that are relatively simple to replicate using AIs will
-inevitably have low exchange-values, leading to diminished surplus-value
-for the AI owners. This trend will particularly impact service-based
-economies, which can expect a significant reduction in surplus-value for
-most services. Consequently, we can expect that for a period, the
-populations and governments of many Western nations will react similarly
-to the Luddites of the 19th century. Driven by the diminished returns
-experienced across sectors, many regions of the world will resort to
-monopolistic licensing strategies and autocratic rules to impede AI
-access.
+The exchange-value of AI-generated services will be equal to the energy required to provide the service (i.e. the cost of running the relevant model(s)), plus the AI's information asymmetry within the market. Services that are relatively simple to replicate using AIs will inevitably have low exchange-values, leading to diminished surplus-value for the AI owners. This trend will particularly impact service-based economies, which can expect a significant reduction in surplus-value for most services. Consequently, we can expect that for a period, the populations and governments of many Western nations will react similarly to the Luddites of the 19th century. Driven by the diminished returns experienced across sectors, many regions of the world will resort to monopolistic licensing strategies and autocratic rules to impede AI access.
 
 In more AI-progressive regions of the world, open source AI will most
 likely flourish for services with low exchange-value, but high use-value
