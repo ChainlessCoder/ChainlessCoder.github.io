@@ -14,8 +14,6 @@ series: ["Open Cybernetics"]
  <img width="100%" height="100%" src="/images/beyond_open_source/banner.jpg">
 </p>
 
-This article was originally published as a blog post on [Open Cybernetics](https://blog.opncbr.com/post/beyond_open_source/).
-
 ---
 <!--more-->
 

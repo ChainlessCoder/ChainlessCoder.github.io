@@ -14,8 +14,6 @@ series: ["Open Cybernetics"]
  <img width="100%" height="100%" src="/images/open_source_ai/banner.png">
 </p>
 
-This essay was originally published as a blog post on [Open Cybernetics](https://blog.opncbr.com/post/open_source_ai/) \& [ChainlessCoder](https://chainlesscoder.com/posts/open-source-ai-and-the-challenges-ahead/).
-
 ---
 <!--more-->
 
