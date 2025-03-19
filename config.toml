@@ -1,6 +1,6 @@
 baseURL = 'https://chainlesscoder.com'
 languageCode = 'en-us'
-title = '@ChainlessCoder'
+title = 'Lum Ramabaja'
 theme = 'mini'
 publishDir = 'docs'
 
@@ -36,10 +36,10 @@ disqusShortname = 'ChainlessCoder'
 
 
 [social]
-  twitter = 'https://twitter.com/ChainlessCoder'
+  github = 'https://github.com/ChainlessCoder'
 
 [params]
-    avatarLink = 'https://twitter.com/ChainlessCoder'
+    avatarLink = 'https://github.com/ChainlessCoder'
 
     author =  'Lum Ramabaja'
 
