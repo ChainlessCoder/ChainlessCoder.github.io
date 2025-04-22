@@ -48,20 +48,20 @@ Codons may not function in isolation — rather, they behave more like context-s
 
 Let’s imagine a hypothetical error-correcting scheme embedded in codon usage:
 
-### 1. Encoding Phase (Evolution)
+### Encoding Phase (Evolution)
 - The genome chooses synonymous codons based not only on efficiency but:
   - The **preceding codons** (context)
   - Pattern logic (GC content, rhythm)
   - Inserted "check codons" at intervals
 
-### 2. Error Detection Phase (Cellular Machinery)
+### Error Detection Phase (Cellular Machinery)
 - If a ribosome or repair enzyme encounters a codon that:
   - Violates expected codon pair rules
   - Is too rare
   - Disrupts a codon pattern
 - The region is flagged for **surveillance or decay** (e.g., NMD)
 
-### 3. Repair/Correction Phase
+### Repair/Correction Phase
 - RNA or DNA repair pathways compare the suspect codon to a statistically likely version
 - The system either degrades the transcript or attempts **localized correction**
 
@@ -73,18 +73,18 @@ This could even work across **codon groups**, maintaining consistency over small
 
 This is speculative, yes — but also testable:
 
-### a. Simulate ECC in Silico
+### Simulate ECC in Silico
 - Model codon usage with and without embedded rules
 - Introduce mutations, and measure if rule-breaking codons correlate with translation failure
 
-### b. Codon Swap Mutagenesis
+### Codon Swap Mutagenesis
 - Create synthetic genes:
   - One with natural codon use
   - One randomized
   - One with intentional ECC-style codon logic
 - Measure robustness to UV, transcriptional error, etc.
 
-### c. RNA Feedback & Decay
+### RNA Feedback & Decay
 - Use nonsense mutations in ECC vs. non-ECC designs
 - See which trigger decay or repair responses more strongly
 
