@@ -1,0 +1,4 @@
+{{- $file := .Get "file" -}}
+{{- $lang := .Get "lang" | default "text" -}}
+{{- $code := readFile $file -}}
+{{- highlight $code $lang "" | safeHTML }}

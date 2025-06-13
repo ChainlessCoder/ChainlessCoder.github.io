@@ -76,13 +76,13 @@
           ·
         </span>
         <span>
-          631 words
+          272 words
         </span>
         <span class="split">
           ·
         </span>
         <span>
-          3 minute read
+          2 minute read
         </span>
     </div>
 
@@ -99,22 +99,6 @@
   <ul>
     <li><a href="#-the-mutation-paradox">🧬 The Mutation Paradox</a></li>
     <li><a href="#-the-idea-codons-as-biological-error-correcting-codes">💡 The Idea: Codons as Biological Error-Correcting Codes</a></li>
-    <li><a href="#-a-theoretical-framework-codonframeecc-v1">🛠️ A Theoretical Framework: CodonFrameECC v1</a>
-      <ul>
-        <li><a href="#encoding-phase-evolution">Encoding Phase (Evolution)</a></li>
-        <li><a href="#error-detection-phase-cellular-machinery">Error Detection Phase (Cellular Machinery)</a></li>
-        <li><a href="#repaircorrection-phase">Repair/Correction Phase</a></li>
-      </ul>
-    </li>
-    <li><a href="#-could-this-be-real-how-to-test-it">🔬 Could This Be Real? How to Test It</a>
-      <ul>
-        <li><a href="#simulate-ecc-in-silico">Simulate ECC in Silico</a></li>
-        <li><a href="#codon-swap-mutagenesis">Codon Swap Mutagenesis</a></li>
-        <li><a href="#rna-feedback--decay">RNA Feedback &amp; Decay</a></li>
-      </ul>
-    </li>
-    <li><a href="#-why-it-matters">🌍 Why It Matters</a></li>
-    <li><a href="#-tldr">📌 TL;DR</a></li>
   </ul>
 </nav>
           </div>
@@ -144,65 +128,6 @@
 <p>This is common in digital communication: systems use <strong>checksums</strong>, <strong>parity bits</strong>, and <strong>error-correcting codes (ECC)</strong> to ensure data integrity.</p>
 <p>Could biology have evolved something similar?</p>
 <p>Codons may not function in isolation — rather, they behave more like context-sensitive tokens, similar to how words in a sentence derive meaning from their neighbors. Just as language follows syntactic rules and grammar, codon sequences might follow subtle, evolutionarily-tuned patterns that help maintain the integrity of the message being translated.</p>
-<hr>
-<h2 id="-a-theoretical-framework-codonframeecc-v1">🛠️ A Theoretical Framework: CodonFrameECC v1 <a href="#-a-theoretical-framework-codonframeecc-v1" class="anchor">🔗</a></h2><p>Let’s imagine a hypothetical error-correcting scheme embedded in codon usage:</p>
-<h3 id="encoding-phase-evolution">Encoding Phase (Evolution) <a href="#encoding-phase-evolution" class="anchor">🔗</a></h3><ul>
-<li>The genome chooses synonymous codons based not only on efficiency but:
-<ul>
-<li>The <strong>preceding codons</strong> (context)</li>
-<li>Pattern logic (GC content, rhythm)</li>
-<li>Inserted &ldquo;check codons&rdquo; at intervals</li>
-</ul>
-</li>
-</ul>
-<h3 id="error-detection-phase-cellular-machinery">Error Detection Phase (Cellular Machinery) <a href="#error-detection-phase-cellular-machinery" class="anchor">🔗</a></h3><ul>
-<li>If a ribosome or repair enzyme encounters a codon that:
-<ul>
-<li>Violates expected codon pair rules</li>
-<li>Is too rare</li>
-<li>Disrupts a codon pattern</li>
-</ul>
-</li>
-<li>The region is flagged for <strong>surveillance or decay</strong> (e.g., NMD)</li>
-</ul>
-<h3 id="repaircorrection-phase">Repair/Correction Phase <a href="#repaircorrection-phase" class="anchor">🔗</a></h3><ul>
-<li>RNA or DNA repair pathways compare the suspect codon to a statistically likely version</li>
-<li>The system either degrades the transcript or attempts <strong>localized correction</strong></li>
-</ul>
-<p>This could even work across <strong>codon groups</strong>, maintaining consistency over small windows — like how RAID systems use parity blocks.</p>
-<hr>
-<h2 id="-could-this-be-real-how-to-test-it">🔬 Could This Be Real? How to Test It <a href="#-could-this-be-real-how-to-test-it" class="anchor">🔗</a></h2><p>This is speculative, yes — but also testable:</p>
-<h3 id="simulate-ecc-in-silico">Simulate ECC in Silico <a href="#simulate-ecc-in-silico" class="anchor">🔗</a></h3><ul>
-<li>Model codon usage with and without embedded rules</li>
-<li>Introduce mutations, and measure if rule-breaking codons correlate with translation failure</li>
-</ul>
-<h3 id="codon-swap-mutagenesis">Codon Swap Mutagenesis <a href="#codon-swap-mutagenesis" class="anchor">🔗</a></h3><ul>
-<li>Create synthetic genes:
-<ul>
-<li>One with natural codon use</li>
-<li>One randomized</li>
-<li>One with intentional ECC-style codon logic</li>
-</ul>
-</li>
-<li>Measure robustness to UV, transcriptional error, etc.</li>
-</ul>
-<h3 id="rna-feedback--decay">RNA Feedback &amp; Decay <a href="#rna-feedback--decay" class="anchor">🔗</a></h3><ul>
-<li>Use nonsense mutations in ECC vs. non-ECC designs</li>
-<li>See which trigger decay or repair responses more strongly</li>
-</ul>
-<hr>
-<h2 id="-why-it-matters">🌍 Why It Matters <a href="#-why-it-matters" class="anchor">🔗</a></h2><ul>
-<li><strong>Synthetic Biology</strong>: Design genes that &ldquo;self-check&rdquo; during expression</li>
-<li><strong>Gene Therapy</strong>: Build safer transgenes with built-in mutation resilience</li>
-<li><strong>Evolutionary Biology</strong>: Offers a testable explanation for how the code itself may have evolved</li>
-<li><strong>AI x Biology</strong>: Use machine learning to discover codon-based &ldquo;grammars&rdquo; that hint at hidden structure</li>
-</ul>
-<hr>
-<h2 id="-tldr">📌 TL;DR <a href="#-tldr" class="anchor">🔗</a></h2><p>This idea proposes that synonymous codons may act as more than passive alternatives — they could be <strong>part of an evolved error-correcting code</strong> hidden in the genome.</p>
-<p>It&rsquo;s a new angle on an old code.</p>
-<p>I&rsquo;m not a wet-lab scientist, but I believe this idea is worth testing. If you&rsquo;re someone who works in genetics, bioinformatics, or molecular biology, feel free to build on this — or reach out if you want to explore it further.</p>
-<hr>
-<p><em>Written by someone fascinated by the patterns beneath biology&rsquo;s surface.</em></p>
     </div>
 
     
