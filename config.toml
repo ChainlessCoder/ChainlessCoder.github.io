@@ -1,4 +1,4 @@
-baseURL = 'https://chainlesscoder.com'
+baseURL = 'https://lumramabaja.com'
 languageCode = 'en-us'
 title = 'Lum Ramabaja'
 theme = 'mini'
@@ -17,7 +17,7 @@ hasCJKLanguage = true
 paginate = 4
 
 #googleAnalytics: your-google-analytics-id
-disqusShortname = 'ChainlessCoder'
+disqusShortname = 'Lum Ramabaja'
 
 # Hugo Configure Markup
 # More info: https://gohugo.io/getting-started/configuration-markup#

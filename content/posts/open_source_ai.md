@@ -418,5 +418,5 @@ movement is more than about sharing code. It is about empowering
 communities worldwide.
 
 [^1]: This essay was originally published as a blog post on [Open
-    Cybernetics](https://opncbr.com) &
-    [ChainlessCoder](https://chainlesscoder.com).
+    Cybernetics](opencybernetics.io) &
+    [lumramabaja](https://lumramabaja.com).

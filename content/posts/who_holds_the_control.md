@@ -69,4 +69,4 @@ Ultimately, our approach is born from a choice of mindset. A finite-game player 
 
 Our 'free software, licensed hardware' model is simply the product of this infinite-game mindset. The critical takeaway is not to copy our specific model, but to adopt the perspective. See the long game. See the system. And build a business where your principles become your greatest strategic advantage. Act as an infinite-game player.
 
-If you enjoyed this blog post, consider sharing it with others who might find it valuable - knowledge grows when shared. Curious about our work or interested in collaborating? [Drop](lum@opncbr.com) us a line! We're always eager to connect with like-minded innovators.
+If you enjoyed this blog post, consider sharing it with others who might find it valuable - knowledge grows when shared. Curious about our work or interested in collaborating? [Drop](lum@opencybernetics.io) us a line! We're always eager to connect with like-minded innovators.
