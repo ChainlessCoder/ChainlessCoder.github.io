@@ -4,6 +4,7 @@ title: "Who Holds the Control: How Technology Distribution Shapes Markets"
 date: 2025-03-19
 draft: false
 description: "Who Holds the Control: How Technology Distribution Shapes Markets"
+summary: "An exploration of how distribution mechanisms—whether open source, closed source, copyright, or copyleft—directly shape market asymmetries, determining whether a technology concentrates power or distributes it, whether it reinforces existing market hierarchies or disrupts them."
 tags: [
    Open-Source, Closed-Source, Copyleft, Copyright, Markets,
    ]
