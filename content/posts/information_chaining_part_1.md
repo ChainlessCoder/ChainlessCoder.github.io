@@ -76,7 +76,7 @@ We know that we can insert elements into a Bloom filter and then check, in a spa
 
 ## Encoding data into a Bloom filter
 
-How might we encode an entire sequence of symbols into a Bloom filter? A natural first attempt might be to *insert each symbol* of the sequence into the Bloom filter. But that alone doesn’t capture order or repetition. A second idea could be to insert each symbol *together with its index position*. That’s better, but not enough. Because Bloom filters are probabilistic, collisions will occur: depending on the false positive rate and bit size, several symbols might appear to belong to the same position. Without prior knowledge of the input distribution, we couldn’t reliably recover the original message. No, we need something different. Something cleaner.
+How might we encode an entire sequence of symbols into a Bloom filter? A natural first attempt might be to insert each symbol of the sequence into the Bloom filter. But that alone doesn’t capture order or repetition. A second idea could be to insert each symbol together with its index position. That’s better, but not enough. Because Bloom filters are probabilistic, collisions will occur: depending on the false positive rate and bit size, several symbols might appear to belong to the same position. Without prior knowledge of the input distribution, we couldn’t reliably recover the original message. No, we need something different. Something cleaner.
 
 To keep things simple, let’s treat each bit of the original message as a separate symbol (We’ll deal with multi-bit symbols later). Now, in all Bloom filter variants, one thing is constant: each lookup is independent. If we inserted symbols along with their index positions, checking whether the bit at position $N$ is present would tell us nothing about the bit at position $N + 1$. But what if we could turn those independent probabilities into conditional probabilities? *What if we "chain" the insertions*? This simple realization is the seed for Information Chaining.
 
@@ -255,7 +255,7 @@ If you enjoyed this post, consider sharing it with others who might find it valu
 If you’d like to reference this article in your own research or writing, please cite it as follows:
 
 > **Lum Ramabaja (2026).** *Let It Bloom: The Seeds of Information Chaining (Part 1).*  
-> Open Cybernetics Blog. [https://lumramabaja.com/post/information_chaining_part_1/](https://lumramabaja.com/post/information_chaining_part_1/)
+> Open Cybernetics Blog. [https://lumramabaja.com/posts/let-it-bloom-the-seeds-of-information-chaining-part-1/](https://lumramabaja.com/posts/let-it-bloom-the-seeds-of-information-chaining-part-1/)
 
 You can also cite it in **BibTeX** format:
 
@@ -265,7 +265,7 @@ You can also cite it in **BibTeX** format:
   author  = {Ramabaja, Lum},
   year    = {2026},
   journal = {Open Cybernetics Blog},
-  url     = {https://lumramabaja.com/post/information_chaining_part_1/}
+  url     = {https://lumramabaja.com/posts/let-it-bloom-the-seeds-of-information-chaining-part-1/}
 }
 {{< /highlight >}}
 
