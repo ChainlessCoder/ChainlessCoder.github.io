@@ -19,7 +19,7 @@ series: ["Open Cybernetics"]
 
 “Information Chaining” is a new family of erasure codes developed at [Open Cybernetics](https://opencybernetics.io). Some variants are rateless; others are fixed-rate. In this series, we’ll explore the different *flavors* of Information Chaining. While later versions are substantially more performant and no longer rely on approximate membership query (AMQ) filters, we begin with the Bloom filter–based variant because it offers the most intuitive entry point into the core idea. It’s also how the concept originally came about.
 
-Throughout the series, I’ll include examples written in [Zig](https://ziglang.org/) (version `0.15.2`). All the code shown here is open source; you can find it in the blog’s GitHub [repository](link). If you’d like to learn more about our work and philosophy, visit [our blog](https://blog.opencybernetics.io/post/who_holds_the_control/). And if Zig sparks joy for you the way it does for us, consider supporting the [Zig Software Foundation](https://ziglang.org/zsf/).
+Throughout the series, I’ll include examples written in [Zig](https://ziglang.org/) (version `0.15.2`). All the code shown here is open source; you can find it in the blog’s GitHub [repository](https://github.com/ChainlessCoder/ChainlessCoder.github.io/tree/main/code_examples/zig/information_chaining_part_1/src). If you’d like to learn more about our work and philosophy, visit [our blog](https://blog.opencybernetics.io/post/who_holds_the_control/). And if Zig sparks joy for you the way it does for us, consider supporting the [Zig Software Foundation](https://ziglang.org/zsf/).
 
 
 # Bloom Filters
