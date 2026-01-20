@@ -1,0 +1,119 @@
+.code-frame {
+    margin: 1.5rem 0;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem;
+    background: #0f1116;
+    color: #d1d5db;
+    box-shadow: 0 10px 24px rgba(15, 17, 22, 0.18);
+    overflow: hidden;
+}
+
+.code-frame__title {
+    padding: 0.65rem 1.25rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    background: rgba(255, 255, 255, 0.04);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.code-frame__body {
+    max-height: 28rem;
+    overflow: auto;
+}
+
+.code-frame__body pre {
+    margin: 0;
+    padding: 1rem 1.25rem;
+    background: transparent;
+    font-size: 0.9rem;
+    color: #e6edf3;
+}
+
+.code-frame__body code {
+    font-family: "JetBrains Mono", "Fira Code", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    line-height: 1.5;
+    font-size: 0.9rem;
+}
+
+.code-frame__body .highlight,
+.code-frame__body .chroma {
+    background: transparent !important;
+}
+
+.code-frame__body .chroma {
+    color: #e6edf3;
+}
+
+.code-frame__body .chroma .err {
+    background: transparent;
+    color: #f47067;
+}
+
+.code-frame__body .chroma .k,
+.code-frame__body .chroma .kd,
+.code-frame__body .chroma .kn,
+.code-frame__body .chroma .kp,
+.code-frame__body .chroma .kr,
+.code-frame__body .chroma .kt {
+    color: #c792ea;
+}
+
+.code-frame__body .chroma .nf,
+.code-frame__body .chroma .na {
+    color: #82aaff;
+}
+
+.code-frame__body .chroma .nv,
+.code-frame__body .chroma .vc,
+.code-frame__body .chroma .vg,
+.code-frame__body .chroma .vi {
+    color: #f07178;
+}
+
+.code-frame__body .chroma .s,
+.code-frame__body .chroma .sb,
+.code-frame__body .chroma .sc,
+.code-frame__body .chroma .sd,
+.code-frame__body .chroma .s1,
+.code-frame__body .chroma .s2 {
+    color: #c3e88d;
+}
+
+.code-frame__body .chroma .m,
+.code-frame__body .chroma .mb,
+.code-frame__body .chroma .mf,
+.code-frame__body .chroma .mh,
+.code-frame__body .chroma .mi {
+    color: #f78c6c;
+}
+
+.code-frame__body .chroma .c,
+.code-frame__body .chroma .cd,
+.code-frame__body .chroma .cm,
+.code-frame__body .chroma .c1,
+.code-frame__body .chroma .cs,
+.code-frame__body .chroma .cp,
+.code-frame__body .chroma .cpf {
+    color: #697098;
+}
+
+.code-frame__body .chroma .o,
+.code-frame__body .chroma .ow {
+    color: #89ddff;
+}
+
+.code-frame__body .chroma .p {
+    color: #89ddff;
+}
+
+@media (max-width: 600px) {
+    .code-frame {
+        border-radius: 0.5rem;
+    }
+
+    .code-frame__body {
+        max-height: 22rem;
+    }
+}

@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Lum Ramabaja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lumramabaja.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lumramabaja.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bloom Filter</title>
+      <link>https://lumramabaja.com/tags/bloom-filter/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lumramabaja.com/tags/bloom-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erasure Code</title>
+      <link>https://lumramabaja.com/tags/erasure-code/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lumramabaja.com/tags/erasure-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Chaining</title>
+      <link>https://lumramabaja.com/tags/information-chaining/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lumramabaja.com/tags/information-chaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Cybernetics</title>
+      <link>https://lumramabaja.com/tags/open-cybernetics/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lumramabaja.com/tags/open-cybernetics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>FEC</title>
       <link>https://lumramabaja.com/tags/fec/</link>
@@ -26,42 +62,6 @@
     </item>
     
     <item>
-      <title>Closed-Source</title>
-      <link>https://lumramabaja.com/tags/closed-source/</link>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://lumramabaja.com/tags/closed-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Copyleft</title>
-      <link>https://lumramabaja.com/tags/copyleft/</link>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://lumramabaja.com/tags/copyleft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Copyright</title>
-      <link>https://lumramabaja.com/tags/copyright/</link>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://lumramabaja.com/tags/copyright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markets</title>
-      <link>https://lumramabaja.com/tags/markets/</link>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://lumramabaja.com/tags/markets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Open Source</title>
       <link>https://lumramabaja.com/tags/open-source/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
@@ -76,15 +76,6 @@
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lumramabaja.com/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Cybernetics</title>
-      <link>https://lumramabaja.com/tags/open-cybernetics/</link>
-      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lumramabaja.com/tags/open-cybernetics/</guid>
       <description></description>
     </item>
     

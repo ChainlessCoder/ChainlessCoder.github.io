@@ -1,4 +1,1 @@
-Interested in systems, algorithms, and data structures.
- 
-I'm CEO and co-founder at [Open Cybernetics](opncbr.com).
-
+Interested in building systems which are capable of receiving, storing, and processing information in useful ways. CEO & co-founder of [Open Cybernetics](https://opncbr.com).

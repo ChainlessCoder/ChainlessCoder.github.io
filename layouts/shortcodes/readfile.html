@@ -1,4 +1,21 @@
 {{- $file := .Get "file" -}}
-{{- $lang := .Get "lang" | default "text" -}}
+{{- if not $file -}}
+  {{- errorf "readfile shortcode requires a 'file' parameter" -}}
+{{- end -}}
+
 {{- $code := readFile $file -}}
-{{- highlight $code $lang "" | safeHTML }}
+{{- $lang := .Get "lang" | default "text" -}}
+{{- $options := .Get "options" | default "" -}}
+
+<div class="code-frame">
+  {{- with .Get "title" }}
+    <div class="code-frame__title">{{ . }}</div>
+  {{- end }}
+  <div class="code-frame__body">
+    {{- if $lang }}
+      {{- highlight $code $lang $options -}}
+    {{- else }}
+      <pre><code>{{- $code | safeHTML -}}</code></pre>
+    {{- end }}
+  </div>
+</div>

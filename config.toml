@@ -24,11 +24,11 @@ disqusShortname = 'Lum Ramabaja'
 [markup]
     [markup.highlight]
         guessSyntax = true
-        style = 'emacs'
+        style = 'dracula'
     [markup.tableOfContents]
         endLevel = 3
         ordered = false
-        startLevel = 2
+        startLevel = 1
     # needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
     [markup.goldmark]
         [markup.goldmark.renderer]
@@ -60,6 +60,8 @@ disqusShortname = 'Lum Ramabaja'
     
     # To enable table of content, you could set `showToc: true`, default is `false`
     showToc = true
+
+    customCSS = ["css/custom.css"]
     
     # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
     showPowerBy = false

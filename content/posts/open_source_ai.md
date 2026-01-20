@@ -5,7 +5,7 @@ date: 2023-05-27
 draft: false
 description: "Open Source AI and the Challenges Ahead"
 tags: [
-   AI, Open Source, Open Cybernetics
+   Open Cybernetics, AI, Open Source
    ]
 series: ["Open Cybernetics"]
 ---
