@@ -18,7 +18,11 @@
     <link rel="stylesheet" href="{{ . }}">
   {{ else }}
     <!-- local css -->
-    <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
+    {{ if hasPrefix . "/" }}
+      <link rel="stylesheet" href="{{ . | relURL }}">
+    {{ else }}
+      <link rel="stylesheet" href="{{ printf "/%s" . | relURL }}">
+    {{ end }}
   {{ end }}
 {{ end }}
 
