@@ -2,75 +2,40 @@ baseURL = 'https://lumramabaja.com/'
 languageCode = 'en-us'
 title = 'Lum Ramabaja'
 theme = 'mini'
-publishDir = 'docs'
-
-# Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish), default 'en'
+publishDir = 'public'
 defaultContentLanguage = 'en'
-
-# !!! exampleSite only, you may need to delete the line: `themesDir: ../../` 
-#themesDir: ../../
-
 hasCJKLanguage = true
+[pagination]
+  pagerSize = 4
+disqusShortname = 'Lum Ramabaja'
+
 [permalinks]
   posts = '/posts/:title/'
 
-paginate = 4
-
-#googleAnalytics: your-google-analytics-id
-disqusShortname = 'Lum Ramabaja'
-
-# Hugo Configure Markup
-# More info: https://gohugo.io/getting-started/configuration-markup#
 [markup]
-    [markup.highlight]
-        guessSyntax = true
-        style = 'dracula'
-    [markup.tableOfContents]
-        endLevel = 3
-        ordered = false
-        startLevel = 1
-    # needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-            unsafe = true
-
-
-[social]
-  github = 'https://github.com/ChainlessCoder'
+  [markup.highlight]
+    guessSyntax = true
+    style = 'dracula'
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
-    avatarLink = 'https://github.com/ChainlessCoder'
 
-    author =  'Lum Ramabaja'
-
-    # Author biography
-    #bio = 'Lum Ramabaja'
-
-    # Site Description, used in HTML meat
-    description = 'My Blog'
-
-    # To enable RSS, you could set `enableRSS: true`, default is `true`
-    enableRSS = true
-
-    # To enable comments, you may need to set `disqusShortname`
-    enableComments = true
-    
-    # To enable comments, you may need to set `googleAnalytics`
-    enableGoogleAnalytics = true
-    
-    # To enable table of content, you could set `showToc: true`, default is `false`
-    showToc = true
-
-    customCSS = ["css/custom.css"]
-    
-    # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
-    showPowerBy = false
-    
-    # To enable math typesetting , you could set `math: true`, default is `false`
-    math = true
-    
-    # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
-    hiddenPostSummaryInHomePage = false
-    
-    # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
-    copyright = ''
+  avatarLink = 'https://github.com/ChainlessCoder'
+  author = 'Lum Ramabaja'
+  description = 'My Blog'
+  enableRSS = true
+  enableComments = true
+  enableGoogleAnalytics = true
+  showToc = true
+  customCSS = ["css/custom.css"]
+  showPowerBy = false
+  math = true
+  hiddenPostSummaryInHomePage = false
+  [social]
+    github = 'https://github.com/ChainlessCoder'
