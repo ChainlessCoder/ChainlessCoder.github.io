@@ -260,7 +260,7 @@ If you’d like to reference this article in your own research or writing, pleas
 You can also cite it in **BibTeX** format:
 
 {{< highlight bibtex >}}
-@article{ramabaja2025informationchaining1,
+@article{ramabaja2026informationchaining1,
   title   = {Let It Bloom: The Seeds of Information Chaining (Part 1)},
   author  = {Ramabaja, Lum},
   year    = {2026},
