@@ -12,10 +12,6 @@ disqusShortname = 'Lum Ramabaja'
 [permalinks]
   posts = '/posts/:title/'
 
-[services]
-  [services.googleAnalytics]
-    id = 'your-google-analytics-id'
-
 [markup]
   [markup.highlight]
     guessSyntax = true
@@ -29,8 +25,7 @@ disqusShortname = 'Lum Ramabaja'
       unsafe = true
 
 [params]
-  [social]
-    github = 'https://github.com/ChainlessCoder'
+
   avatarLink = 'https://github.com/ChainlessCoder'
   author = 'Lum Ramabaja'
   description = 'My Blog'
@@ -42,3 +37,5 @@ disqusShortname = 'Lum Ramabaja'
   showPowerBy = false
   math = true
   hiddenPostSummaryInHomePage = false
+  [social]
+    github = 'https://github.com/ChainlessCoder'
