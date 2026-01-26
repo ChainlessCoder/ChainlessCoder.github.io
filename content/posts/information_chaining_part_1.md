@@ -167,7 +167,7 @@ Erasure codes work by transforming an original message of $n$ symbols into a lon
 
 ## Designing a Bloom filter–based erasure encoder
 
-Now imagine applying this logic to network packets. If we could transform $n$ packets into $z$ packets (where $z > n$) and transmit them using a connectionless protocol, the receiver could reconstruct the original data from any subset of those $z$ packets, even if some were lost along the way. Here’s where Information Chaining re-enters the picture. Our Bloom filter–based prototype can be adapted into an erasure code in multiple ways:
+Now imagine applying this logic to network packets. If we could transform $n$ source packets into $m$ encoded packets (where $m > n$) and transmit them using a connectionless protocol, the receiver could reconstruct the original data from any subset of those $m$ packets, even if some were lost along the way. Here’s where Information Chaining re-enters the picture. Our Bloom filter–based prototype can be adapted into an erasure code in multiple ways:
 
 - Use many small Bloom filters (with higher false positive rates) and compress them, for instance, using [Golomb Coded Sets](https://web.archive.org/web/20220620080435/https://giovanni.bajo.it/post/47119962313/golomb-coded-sets-smaller-than-bloom-filters). Or
 - Use a single large Bloom filter and later packetize it.
