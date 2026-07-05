@@ -4,7 +4,7 @@ title: "Dissolving Markets: How Sharing Technology Redistributes Power"
 date: 2026-07-04
 draft: false
 description: "Dissolving Markets: How Sharing Technology Redistributes Power"
-summary: "Markets exist only in the band between perfect symmetry and total asymmetry. An exploration of the asymmetries markets run on — secrets, property, capital, and control of information networks — and why true economic empowerment means dissolving them: not better markets, but more capable people."
+summary: "Markets exist only in the band between perfect symmetry and total asymmetry. An exploration of the asymmetries that corrupt them (secrets, property, capital, and control of information networks) and why true economic empowerment means dissolving them: not better markets, but more capable people."
 tags: [
    Open-Source, Markets, Technology
    ]
