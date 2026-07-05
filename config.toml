@@ -26,7 +26,7 @@ disqusShortname = 'Lum Ramabaja'
 
 [params]
 
-  avatarLink = 'https://github.com/ChainlessCoder'
+  avatarLink = 'https://codeberg.org/LumRamabaja'
   author = 'Lum Ramabaja'
   description = 'My Blog'
   enableRSS = true

@@ -1,1 +1,1 @@
-Interested in building systems which are capable of receiving, storing, and processing information in useful ways. CEO & co-founder of [Open Cybernetics](https://opncbr.com).
+I'm interested in systems which are capable of receiving, storing, and processing information in useful ways.
